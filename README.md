@@ -1,3 +1,7 @@
+- Name: Malisha Shavinda
+- StudentID: 2301682025
+- Email: mlishashavinda577@gmail.com
+
 # ☁️ Cloud Enabled Deployment in Action with Microsoft Azure
 
 ##  This repository contains four projects:
